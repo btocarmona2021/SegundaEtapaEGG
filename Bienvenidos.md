@@ -4,7 +4,7 @@
 Todo lo trabajado en la segunda etapa EGG.
 >Hola mi nombre es Alberto Carmona y estoy comenzando en esta segunda etapa de programacíon en Argentina Programa 4.0,con Intro a Java..
 
-En éste repositorio estaré subiendo todos los ejercicios realizados en esta etapa en formato Java para que los puedas abrir directamente en tu Netbeans.
+> ##### En éste repositorio estaré subiendo todos los ejercicios realizados en esta etapa en formato Java para que los puedas abrir directamente en tu Netbeans.
 
 <a href="https://github.com/btocarmona2021/SegundaEtapaEGG/tree/master/SegundaEtapa/src/Encuentro_02_03" target="_blank">Encuentro 02
 </a>
@@ -13,25 +13,24 @@ En éste repositorio estaré subiendo todos los ejercicios realizados en esta et
 
 <a href="https://github.com/btocarmona2021/SegundaEtapaEGG/tree/master/SegundaEtapa/src/Encuentro_04_05_06_Extras" target="_blank">Encuentro 03 04 05 Extras</a>
 
-Encuentro 01
+Encuentro 06
 
-Encuentro 01
+Encuentro 07
 
-Encuentro 01
+Encuentro 08
 
-Encuentro 01
+Encuentro 09
 
-Encuentro 01
+Encuentro 10
 
-Encuentro 01
+Encuentro 11
 
-Encuentro 01
+Encuentro 12
 
-Encuentro 01
+Encuentro 13
 
 
-
->Dentro de las carpetas encuentros estarán todos los ejercicios en formato MD para un fácil copiado y pegado de código.
+> ##### Dentro de las carpetas encuentros estarán todos los ejercicios en formato MD para un fácil copiado y pegado de código.
 
 1. <a href="https://github.com/btocarmona2021/SegundaEtapaEGG/tree/master/Encuentro%2002" target="_blank">Encuentro 02</a> 
 
