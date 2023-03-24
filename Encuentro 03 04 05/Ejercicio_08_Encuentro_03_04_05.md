@@ -1,6 +1,6 @@
 #### Ejercicio 08 - ENCUENTRO 03 - 04 y 05
 ==================================================
-> Dibujar un cuadrado de N elementos por lado utilizando el carácter “*”. Por ejemplo,si el cuadrado tiene 4 elementos por lado se deberá dibujar lo siguiente: 
+> Dibujar un cuadrado de N elementos por lado utilizando el  carácter “*”. Por ejemplo,si el cuadrado tiene 4 elementos por lado se deberá dibujar lo siguiente: 
 ![][image_ref_oi1ic79f]
 
 
