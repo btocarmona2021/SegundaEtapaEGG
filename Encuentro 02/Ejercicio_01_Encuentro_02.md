@@ -1,7 +1,6 @@
 #### Ejercicio 01 - ENCUENTRO 02
 ==================================================
-> //Escribir un programa que pida tu nombre, lo guarde en una variable y lo muestre
-//por pantalla
+> Escribir un programa que pida tu nombre, lo guarde en una variable y lo muestre por pantalla.
 
 ==================================================
 ```java

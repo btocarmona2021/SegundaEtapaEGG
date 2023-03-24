@@ -1,6 +1,6 @@
 #### Ejercicio 03 - ENCUENTRO 02
 ==================================================
-> Escribir un programa que pida una frase y la muestre toda en mayúsculas y después toda en minúsculas. Nota: investigar la función toUpperCase() y toLowerCase() en Java.
+> Escribir un programa que pida una frase y la muestre toda en mayúsculas y después toda en minúsculas. Nota: investigar la función toUpperCase() y toLowerCase() en Java..
 
 ==================================================
 ```java

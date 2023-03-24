@@ -1,6 +1,6 @@
 #### Ejercicio 06 - ENCUENTRO 02
 ==================================================
-> Implementar un programa que le pida dos números enteros a usuario y determine si ambos o alguno de ellos es mayor a 25. 
+> Implementar un programa que le pida dos números enteros a usuario y determine si ambos o alguno de ellos es mayor a 25.. 
 
 ==================================================
 ```java

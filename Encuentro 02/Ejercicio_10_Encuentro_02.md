@@ -1,6 +1,6 @@
 #### Ejercicio 10 - ENCUENTRO 02
 ==================================================
-> Realizar un programa que lea 4 números (comprendidos entre 1 y 20) e imprima el número ingresado seguido de tantos asteriscos como indique su valor. Por ejemplo:
+> Realizar un programa que lea 4 números (comprendidos entre 1 y 20) e imprima el número ingresado seguido de tantos asteriscos como indique su valor. Por ejemplo: 
 
 > //5 *****
 > 

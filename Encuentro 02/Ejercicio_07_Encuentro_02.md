@@ -8,7 +8,7 @@
 > Si el tipo de motor es 3, mostrar un mensaje indicando “La bomba es una bomba de hormigón”.
 > Si el tipo de motor es 4, mostrar un mensaje indicando “La bomba es una bomba de pasta alimenticia”.
 > Si no se cumple ninguno de los valores anteriores mostrar el mensaje
-> //“No existe un valor válido para tipo de bomba”
+> //“No existe un valor válido para tipo de bomba”.
 
 
 ==================================================
