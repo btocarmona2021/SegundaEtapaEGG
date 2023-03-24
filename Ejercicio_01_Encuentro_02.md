@@ -1,6 +1,7 @@
 #### Ejercicio 01 - ENCUENTRO 02
 ==================================================
-> Escribir un programa que pida dos números enteros por teclado y calcule la suma de los dos. El programa deberá después mostrar el resultado de la suma
+> //Escribir un programa que pida tu nombre, lo guarde en una variable y lo muestre
+//por pantalla
 
 ==================================================
 ```java
