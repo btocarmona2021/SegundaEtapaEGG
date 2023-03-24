@@ -1,16 +1,21 @@
 ### Primeros pasos en JavaScript
 #### Tipos de datos:
-> //tipo de datos String
+
+> Tips para verificar que tipo de datos es, se escribe typeof(variable)  
+* console.log(typeof(autos))
+
+=======================================================
+> //Tipo de datos String
 ```javascript
 var nombre = "Carlos";
 console.log(nombre);
 ```
-> //tipo de datos numeros
+> //Tipo de datos numéricos
 ```javascript
 var numero = 1000;
 console.log(numero);
 ```
-> //tipo de dato objeto
+> //Tipo de dato objeto
 ```javascript
 var objeto = {
   nombre: "Alberto",
@@ -20,22 +25,22 @@ var objeto = {
 };
 console.log(objeto);
 ```
-> //tipo de datos Booleanos
+> //Tipo de datos Booleanos
 ```javascript
 var estado = true;
 console.log(estado);
 ```
-> //tipo de datos funcion
+> //Tipo de datos function
 ```javascript
 function mifuncion() {}
 console.log(mifuncion);
 ```
-> //tipo de datos Symbol
+> //Tipo de datos Symbol
 ```javascript
 var simbolo = Symbol("mi simbolo");
 console.log(simbolo);
 ```
-> //tipo Clases es una funcion
+> //Tipo Clases también es una función
 ```javascript
 class Persona {
   constructor(nombre, apellido) {
@@ -45,7 +50,7 @@ class Persona {
 }
 console.log(Persona);
 ```
-> //tipo de datos undefined
+> //Tipo de datos undefined
 ```javascript
 var x;
 console.log(x)
@@ -55,4 +60,15 @@ console.log(x)
 var y=null;
 console.log(y);
 ```
+> //Tipo de datos Arreglo / también es un tipo Object 
+```javascript
+var autos = ['Chevrolet', 'Audi','Volvo'];
+console.log(autos);
+```
+> //Definir una cadena vacía
+```javascript
+var x="";
+console.log(x)
+```
+
 
