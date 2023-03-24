@@ -8,6 +8,7 @@ En éste repositorio estaré subiendo todos los ejercicios realizados en esta et
 
 <a href="https://github.com/btocarmona2021/SegundaEtapaEGG/tree/master/SegundaEtapa/src/Encuentro_02_03" target="_blank">Encuentro 02
 </a>
+
 <a href="https://github.com/btocarmona2021/SegundaEtapaEGG/tree/master/SegundaEtapa/src/Encuentro_04_05_06" target="_blank">Encuentro 03 04 05</a>
 
 <a href="https://github.com/btocarmona2021/SegundaEtapaEGG/tree/master/SegundaEtapa/src/Encuentro_04_05_06_Extras" target="_blank">Encuentro 03 04 05 Extras</a>
