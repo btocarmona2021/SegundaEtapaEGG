@@ -11,7 +11,6 @@ public class Ejercicio_06 {
 
         Scanner leer = new Scanner(System.in);
         int opcion;
-        int salir = 0;
         double num1=0;
         double num2=0;
         String respuesta="";
@@ -26,7 +25,7 @@ public class Ejercicio_06 {
             System.out.println("'5' Salir");
             System.out.println("=======================");
             opcion = leer.nextInt();
-            if (opcion !=5) {
+            if (opcion <5) {
                 System.out.println("Ingrese el primer valor");
                 num1 = leer.nextDouble();
                 System.out.println("Ingrese el segundo valor para realizar la operacion");
@@ -48,17 +47,11 @@ public class Ejercicio_06 {
                 case 5:
                     System.out.println("¿Está seguro que desea salir del programa (S/N)?");
                   
-                    respuesta=leer.next();
+                    respuesta=leer.next().toUpperCase();
                     
-                    if (respuesta.toUpperCase().equals("S")) {
-                        System.out.println("Saliendo del programa");
-                        break OUTER;
-                    } else {
-                        System.out.println("Continuamos haciendo operaciones");
-                    }
-                    break;
+                    
                 default:
-                    System.out.println("La opción elegida no es valida");
+                    System.out.println("saliendo del programa");
                     break;
             }
         } while (!respuesta.equals("S"));

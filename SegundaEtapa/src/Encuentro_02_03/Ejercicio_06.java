@@ -25,7 +25,5 @@ public class Ejercicio_06 {
         } else {
             System.out.println("Los dos numeros ingresados son menores a 25 / " + num1 + " " + num2);
         }
-
     }
-
 }

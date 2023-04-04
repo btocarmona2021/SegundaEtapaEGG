@@ -15,6 +15,7 @@ public class Ejercicio_05 {
         System.out.println("Ingrese el primer numero a sumar");
         int num = leer.nextInt();
         int suma = num;
+        
         while (limite > suma) {
 
             System.out.println("Ingrese el nuevo numero a sumar");
